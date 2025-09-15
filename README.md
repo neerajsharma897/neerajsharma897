@@ -1,6 +1,6 @@
 # 💫 About Me:
-👨‍💻 I'm Neeraj Sharma, a 2nd year BTech Information Technology student. 🚀<br><br>
-🔭 I’m currently working on [WanderLust](https://github.com/neerajsharma897/WanderLust)<br><br>🌱 I’m currently learning MERN 👾<br><br>❓ Ask me about anything related to the MERN stack and related technologies<br><br>
+👨‍💻 I'm Neeraj Sharma, a 3rd year BTech Information Technology student. 🚀<br><br>
+🔭 I’m currently working on MERN and ML projects<br><br>🌱 I’m currently learning MERN 👾<br><br>❓ Ask me about anything related to the MERN stack and related technologies<br><br>
 
 
 ## 🌐 Socials:
