@@ -1,13 +1,19 @@
 # About Me: 
-<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 20px;">
-  <div>
-    * I'm Neeraj Sharma, a 3rd year BTech Information Technology student.<br><br>
-    * I’m currently working on MERN and ML projects<br><br>
-    * I’m currently learning MERN<br><br>
-    * Ask me about anything related to the MERN stack and related technologies<br><br>
-  </div>
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" alt="About Me GIF" />
-</div>
+<table width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <ul>
+        <li>I'm Neeraj Sharma, a 3rd year BTech Information Technology student.</li><br>
+        <li>I’m currently working on MERN and ML projects.</li><br>
+        <li>I’m currently learning MERN.</li><br>
+        <li>Ask me about anything related to the MERN stack and related technologies.</li>
+      </ul>
+    </td>
+    <td width="40%" align="right" valign="top">
+      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="350" alt="About Me GIF" />
+    </td>
+  </tr>
+</table>
 
 ## Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neerajsharma897) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/neerajsharma897) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:neeraj667589a@gmail.com)<br><br>
@@ -20,16 +26,18 @@
 <div align="center">
 <table width="100%">
   <tr>
-    <td align="center" height="50%">
+    <td align="center" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=neerajsharma897&theme=onedark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
     </td>
-    <td align="center" height="50%">
+    <td align="center" width="50%">
       <img src="https://nirzak-streak-stats.vercel.app/?user=neerajsharma897&theme=onedark&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerajsharma897&theme=onedark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
     </td>
   </tr>
 </table>
 </div>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 10px;">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerajsharma897&theme=onedark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-</div>
