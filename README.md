@@ -27,7 +27,7 @@
 <table width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=neerajsharma897&theme=onedark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=neerajsharma897&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td align="center" width="50%">
       <img src="https://nirzak-streak-stats.vercel.app/?user=neerajsharma897&theme=onedark&hide_border=true" alt="GitHub Streak" />
