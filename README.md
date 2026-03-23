@@ -5,7 +5,7 @@
       <ul>
         <li>I'm Neeraj Sharma, a 3rd year BTech Information Technology student.</li><br>
         <li>I’m currently working on MERN and ML projects.</li><br>
-        <li>I’m currently learning MERN.</li><br>
+        <li>I’m currently learning Agentic AI Tools.</li><br>
         <li>Ask me about anything related to the MERN stack and related technologies.</li>
       </ul>
     </td>
